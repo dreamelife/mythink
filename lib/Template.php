@@ -21,7 +21,7 @@
  		'templateDir' => 'template/',  			//模板目录
  		'compiledir'  => 'cache',				//编译后文件存放目录
  		'cache_htm'   => false,					//是否开启缓存
- 		'suffix_cache'=> '.htm',				//编译文件后最
+ 		'suffix_cache'=> '.htm',				//编译文件后缀
  		'cache_time'  => 7200,					//自动刷新时间  单位s
  	);	
  	
